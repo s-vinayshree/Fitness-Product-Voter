@@ -21,7 +21,7 @@ window.Seed = (function () {
       votes: generateVoteCount(),
       submitterAvatarUrl: 'images/avatars/kristy.png',
       productImageUrl: 'images/fitbit/fitbit charge 2.jpg',
-    },
+    }, 
     {
       id: 3,
       title: 'Moov Now',
